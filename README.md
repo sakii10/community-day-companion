@@ -1,6 +1,11 @@
 # Community Day Companion
 
-My project from the **Fiscal Solutions AI-Only Hackathon** — an individual 6-hour hackathon where I developed a functional mobile application using AI-assisted development.
+My project from the **Fiscal Solutions AI-Only Hackathon** — an individual 6-hour hackathon where I developed a functional mobile application using AI-assisted development
+
+## Available on
+
+[![App Store](https://img.shields.io/badge/Download_on_the-App_Store-black?logo=apple&logoColor=white)](https://apps.apple.com/ca/app/community-day-companion/id6803551095)
+[![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-green?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.fiscalsolutions.communityday)
 
 ## 🎥 Demos
 
